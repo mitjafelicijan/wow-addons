@@ -1,0 +1,33 @@
+[{
+    "readmeUrl":"https://raw.githubusercontent.com/shagu/ShaguTweaks/master/README.md",
+    "brief":"A small World of Warcraft (1.12.1 / 2.4.3) AddOn for those, who don’t want to use any AddOns at all.",
+    "tags":["turtle"],
+    "author":"Shagu",
+    "icons":"https://shagu.org/ShaguTweaks/screenshots/menu.jpg",
+    "gameVersionCompatibility":["1.12","2.4.3"],
+    "categories":["interface","tweaks"],
+    "versions":[{
+        "addonVersion":"1.0",
+        "zipUrl":"https://github.com/shagu/ShaguTweaks/archive/master.zip",
+        "releaseDate":"2022-01-01"
+      }],
+    "name":"ShaguTweaks"
+  },{
+    "readmeUrl":"https://raw.githubusercontent.com/mitjafelicijan/TurtleTweaks/master/README.md",
+    "brief":"World of Warcraft Tweaks and Enhancements addon",
+    "tags":["turtle"],
+    "author":"Mitja Felicijan",
+    "icons":"https://user-images.githubusercontent.com/296714/237187694-45bcaab2-246c-4f49-9bcc-c5c6c761028b.png",
+    "gameVersionCompatibility":["1.12"],
+    "categories":["interface","tweaks"],
+    "versions":[{
+        "addonVersion":"0.2",
+        "zipUrl":"https://github.com/mitjafelicijan/TurtleTweaks/archive/refs/tags/v0.2.zip",
+        "releaseDate":"2022-01-01"
+      },{
+        "addonVersion":"0.1",
+        "zipUrl":"https://github.com/mitjafelicijan/TurtleTweaks/archive/refs/tags/v0.1.zip",
+        "releaseDate":"2021-01-01"
+      }],
+    "name":"TurtleTweaks"
+  }]

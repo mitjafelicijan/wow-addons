@@ -1,0 +1,31 @@
+{
+	"name": "TurtleTweaks",
+	"brief": "World of Warcraft Tweaks and Enhancements addon",
+	"author": "Mitja Felicijan",
+	"icons": "https://user-images.githubusercontent.com/296714/237187694-45bcaab2-246c-4f49-9bcc-c5c6c761028b.png",
+	"readmeUrl": "https://raw.githubusercontent.com/mitjafelicijan/TurtleTweaks/master/README.md",
+	"gameVersionCompatibility": [
+		"1.12"
+	],
+	"tags": [
+		"turtle"
+	],
+	"categories": [
+		"interface",
+		"tweaks"
+	],
+	"versions": [
+		{
+			"addonVersion": "0.2",
+			"releaseDate": "2022-01-01",
+			"zipUrl": "https://github.com/mitjafelicijan/TurtleTweaks/archive/refs/tags/v0.2.zip",
+			"subfolder": null
+		},
+		{
+			"addonVersion": "0.1",
+			"releaseDate": "2021-01-01",
+			"zipUrl": "https://github.com/mitjafelicijan/TurtleTweaks/archive/refs/tags/v0.1.zip",
+			"subfolder": null
+		}
+	]
+}

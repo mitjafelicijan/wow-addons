@@ -1,0 +1,26 @@
+{
+	"name": "ShaguTweaks",
+	"brief": "A small World of Warcraft (1.12.1 / 2.4.3) AddOn for those, who don’t want to use any AddOns at all.",
+	"author": "Shagu",
+	"icons": "https://shagu.org/ShaguTweaks/screenshots/menu.jpg",
+	"readmeUrl": "https://raw.githubusercontent.com/shagu/ShaguTweaks/master/README.md",
+	"gameVersionCompatibility": [
+		"1.12",
+		"2.4.3"
+	],
+	"tags": [
+		"turtle"
+	],
+	"categories": [
+		"interface",
+		"tweaks"
+	],
+	"versions": [
+		{
+			"addonVersion": "1.0",
+			"releaseDate": "2022-01-01",
+			"zipUrl": "https://github.com/shagu/ShaguTweaks/archive/master.zip",
+			"subfolder": null
+		}
+	]
+}
